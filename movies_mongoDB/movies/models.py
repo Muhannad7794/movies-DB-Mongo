@@ -1,3 +1,4 @@
 from django.db import models
-from mongo_connect import db
+from django.contrib.auth.models import User
+
 
